@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "77629328240",
+    "firebase_url": "https://hackathon-ford.firebaseio.com",
+    "project_id": "hackathon-ford",
+    "storage_bucket": "hackathon-ford.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77629328240:android:aff92ce85f1ff1f9",
+        "android_client_info": {
+          "package_name": "com.ford.sa.campuspartyexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77629328240-t69dt993vuhsch7agddkrbd8qis5ssom.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ford.sa.campuspartyexample",
+            "certificate_hash": "3751693e4826416abd6fd33db0e29cdd479b54ab"
+          }
+        },
+        {
+          "client_id": "77629328240-uialbv1053vtoec7sdsmn85ps3sip85s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwuN6Nu_mH6OFq48Lff8-vdMsdXkea5ik"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77629328240-uialbv1053vtoec7sdsmn85ps3sip85s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
